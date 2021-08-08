@@ -2,18 +2,18 @@
 
 ## Check Out the APP: [To-Do-List App](https://fierce-castle-96071.herokuapp.com/work)<br/><br/>
 
-### The Express Deployed Weather Fetch Web APP utilizes the data of [Open Weather API](https://openweathermap.org/api) as raw material. It first presents a web page where users could input the latitude and longitude of a location, and then the realtime weather condition in the moment as well as that in the next 7 days will be loaded.</br>
+### The Express and Mongoose Deployed To-Do-List Web APP is consisted of three parts, the home page, the about page and the customized task List page. User first access the homepage where shows the date and can input the tasks need to be finished. Also, the customized task lists can be accessed through input params such as "chores" or "work" into url path, every single type in will generate the relative customized task list.</br>
 
 ## SKILLS:
 #### It covers the topic of **_HTML, CSS,Js, Node.js, Express, MongoDB, Mongoose and Heroku**<br/><br/>
 
 
 ## HOW DOES IT WORK:
-#### The project is deployed by Node.js and hosted on Heroku.  The repo contains the backend file: app. js which I tested locally by running it through by nodemon (a package installed through npm: node package manager) to simplify the node.js restart procedures in terminal. <br/><br/> 
+#### The project is deployed by Node.js and hosted on Heroku. The todoList app uses mongo Atlas as the database to store the input data.   The repo contains the backend file: app. js as the server file. <br/><br/> 
 
 ## Display:<br/>
 
 ![Farmers Market Finder Demo](gif/todoList.gif)
 
 
-The todoList app uses monggoDB as the database to store the input data. 
+
