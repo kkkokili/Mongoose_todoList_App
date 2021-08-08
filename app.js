@@ -1,7 +1,7 @@
     // Finished Version
 
     // jshint esversion:8
-    import {passWord} from "./password.mjs";
+    // import {passWord} from "./password.mjs";
 
     import express from 'express';
 
@@ -23,7 +23,7 @@
 
     // -----------MONGOOSE--------------------
 
-    mongoose.connect(`mongodb+srv://admin-xiaotong:${passWord}@cluster0.k4lze.mongodb.net/todolistDB`, {
+    mongoose.connect(`mongodb+srv://admin-xiaotong:C5KYL2r0JqQ5Fp6l@cluster0.k4lze.mongodb.net/todolistDB`, {
       useNewUrlParser: true,
       useUnifiedTopology: true
     });
