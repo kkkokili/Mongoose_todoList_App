@@ -59,7 +59,7 @@
 
     // ----------Declare Global Variables------------------------------------------------------
 
-    var newWork;
+    var newTask;
 
     var options = {
       weekday: 'long',
